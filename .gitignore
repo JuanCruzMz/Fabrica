@@ -1,0 +1,15 @@
+## Visual Studio & .NET .gitignore
+.vs/
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.sublime-workspace
